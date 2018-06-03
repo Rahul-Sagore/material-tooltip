@@ -4,8 +4,15 @@ Material design tooltip component using CSS and pure Javascript
 ### Demo Tooltip:
 ![Tooltip Demo](https://raw.githubusercontent.com/Rahul-Sagore/material-tooltip/master/demo/material-tooltip-demo.gif)
 
-### Usage
+### Insatallation and Usage
 
+**Using NPM:**
+```bash
+npm install material-tooltip --save
+```
+
+
+**Using Source files:**
 Include CSS file:
 ```html
 <link rel="stylesheet" type="text/css" href="/src/material-tooltip.css">
