@@ -1,11 +1,26 @@
 {
   "name": "material-tooltip",
   "version": "1.0.0",
-  "description": "Material design tooltip component using CSS and Javascript",
-  "main": "index.js",
+  "description": "Material design tooltip component using pure Javascript and CSS",
+  "browser": "./src/material-tooltip.js",
+  "keywords": [
+    "Material design",
+    "Tooltip",
+    "Material design tooltip",
+    "md tooltip",
+    "mdl tooltip",
+    "material-tooltip",
+    "material tooltip"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": "https://github.com/Rahul-Sagore/material-tooltip/issues",
+  "homepage": "https://github.com/Rahul-Sagore/material-tooltip#material-tooltip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rahul-Sagore/material-tooltip.git"
+  },
   "author": "Rahul Sagore <rahul.sagore@gmail.com>",
-  "license": "ISC"
+  "license": "MIT"
 }
