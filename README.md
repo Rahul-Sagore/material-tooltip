@@ -17,7 +17,7 @@ Include JS file before the end of body tag:
 ```
 **Note:** Add correct source path of the files
 
-Then Add the tooltip meta and class on element, on which you want to display tooltip:
+Then add the tooltip meta and class on element, on which you want to display tooltip:
 ```html
 <i class="material-icons md-tooltip" data-m-tooltip="This is a tooltip content!">pets</i>
 ```

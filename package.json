@@ -4,6 +4,7 @@
   "description": "Material design tooltip component using pure Javascript and CSS",
   "browser": "./src/material-tooltip.js",
   "keywords": [
+    "javascript tooltip",
     "Material design",
     "Tooltip",
     "Material design tooltip",
